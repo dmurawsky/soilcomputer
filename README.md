@@ -1,2 +1,2 @@
 # soilcomputer
-A new computer.
+The new computer.
